@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "886837437632",
+    "firebase_url": "https://to-do-app-1795b-default-rtdb.firebaseio.com",
+    "project_id": "to-do-app-1795b",
+    "storage_bucket": "to-do-app-1795b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886837437632:android:9a9eda292ac22970e23925",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPTdWLyB7YgVhXxewij9UUJWfsaNd6MQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
